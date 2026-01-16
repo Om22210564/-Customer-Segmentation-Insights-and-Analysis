@@ -1,4 +1,4 @@
-📊 Marketing Campaign Data Analysis
+# 📊 Marketing Campaign Data Analysis
 
 This repository contains an end-to-end exploratory data analysis (EDA) of a marketing campaign dataset using Python. The project focuses on understanding customer demographics, behavioral patterns, and campaign effectiveness through clean preprocessing and insightful visualizations.
 

@@ -1,11 +1,34 @@
-# Customer Segmentation Insights and Analysis
+📊 Marketing Campaign Data Analysis
 
-This project focuses on segmenting customers based on their personal information, spending patterns and feedback(complaints) which will be helpful for targeted advertising.
+This repository contains an end-to-end exploratory data analysis (EDA) of a marketing campaign dataset using Python. The project focuses on understanding customer demographics, behavioral patterns, and campaign effectiveness through clean preprocessing and insightful visualizations.
+
+🔍 What this project does
+
+Loads and explores real-world marketing campaign data
+
+Performs data cleaning and statistical analysis
+
+Analyzes customer attributes such as age, income, and spending behavior
+
+Uses visualizations to uncover trends and correlations
+
+Draws insights useful for data-driven marketing decisions
 
 ## Features
 - Data preprocessing - EDA
 - Clustering algorithms (K-Means.)
 - Insights and visualization
+
+🛠 Tech Stack
+
+Python
+
+NumPy, Pandas
+
+Matplotlib, Seaborn
+
+Jupyter Notebook
+
 
 ## How to Run
 1. Clone this repository.
